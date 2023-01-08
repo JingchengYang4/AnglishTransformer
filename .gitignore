@@ -133,3 +133,5 @@ data/
 .DS_Store
 models/
 runs/
+
+trained_models/
